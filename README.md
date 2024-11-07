@@ -15,23 +15,17 @@ Este painel oferece uma visão geral da base de usuários da plataforma, focando
 **Importância:**  
 A análise da base de usuários é fundamental para o planejamento de campanhas de marketing, expansão geográfica e segmentação de público. Identificar padrões de adesão e as características demográficas permite otimizar a estratégia de retenção e aquisição.
 
+![Painel 1](https://raw.githubusercontent.com/bellaizaoliveira/netflix-user-insights/main/assets/painel1.jpg)
+
 **Gráficos:**
 - **Total de Usuários:** Quantidade total de usuários registrados na plataforma ao longo do tempo.
-  
-![Total de Usuários](link-da-imagem)
 
 - **Distribuição Geográfica dos Usuários:** Mapa que exibe os usuários segmentados por país.
   
-![Distribuição Geográfica](link-da-imagem)
-
 - **Distribuição de Gênero dos Usuários:** Proporção de usuários por gênero.
   
-![Distribuição de Gênero](link-da-imagem)
-
 - **Distribuição Etária dos Usuários:** Segmentação de usuários por faixa etária.
   
-![Distribuição Etária](link-da-imagem)
-
 ---
 
 ### 2. **Painel de Análise de Retenção e Engajamento**
@@ -44,20 +38,12 @@ Compreender os fatores que afetam a retenção de usuários é essencial para me
 **Gráficos:**
 - **Análise de Retenção por Duração do Plano:** Retenção de usuários conforme a duração do plano de adesão.
   
-![Análise de Retenção](link-da-imagem)
-
 - **Contagem de Usuários por Data de Adesão:** Quantidade de usuários que aderiram à plataforma por mês.
   
-![Contagem de Usuários](link-da-imagem)
-
 - **Data de Adesão:** Identificação de tendências temporais de adesão dos usuários.
   
-![Data de Adesão](link-da-imagem)
-
 - **Taxa de Retenção por Tipo de Assinatura:** Taxa de retenção segmentada por tipo de plano de assinatura.
   
-![Taxa de Retenção](link-da-imagem)
-
 ---
 
 ### 3. **Painel de Tendência de Receita e Adesões**
@@ -70,16 +56,10 @@ A compreensão das tendências de adesão e da receita gerada ao longo do tempo 
 **Gráficos:**
 - **Tendência de Adesão Mensal:** Quantidade de adesões mensais, destacando períodos de pico e baixa.
   
-![Tendência de Adesão](link-da-imagem)
-
 - **Tendência de Receita por Tipo de Assinatura:** Receita gerada por tipo de plano ao longo do tempo.
   
-![Tendência de Receita](link-da-imagem)
-
 - **Receita Mensal Total:** Total de receita gerada por mês.
   
-![Receita Mensal](link-da-imagem)
-
 ---
 
 ### 4. **Painel de Comportamento do Usuário**
@@ -92,24 +72,14 @@ Analisar o comportamento de pagamento é essencial para entender a disposição 
 **Gráficos:**
 - **Dispositivos Mais Utilizados:** Mostra os dispositivos mais usados pelos usuários da plataforma.
   
-![Dispositivos Mais Utilizados](link-da-imagem)
-
 - **Faixa Etária por Tipo de Assinatura:** Segmentação de usuários por faixa etária, analisando os tipos de planos contratados.
   
-![Faixa Etária](link-da-imagem)
-
 - **Distribuição de Usuários por Tipo de Assinatura:** Quantidade de usuários em cada tipo de plano.
   
-![Distribuição por Tipo de Assinatura](link-da-imagem)
-
 - **Receita Média por Tipo de Assinatura:** Receita média gerada por cada tipo de plano.
   
-![Receita Média](link-da-imagem)
-
 - **Distribuição de Usuários por País:** Segmentação de usuários conforme o país de origem.
   
-![Distribuição por País](link-da-imagem)
-
 ---
 
 ### 5. **Painel de Análise Financeira**
@@ -122,20 +92,12 @@ Ter uma visão clara da receita gerada é essencial para monitorar a saúde fina
 **Gráficos:**
 - **Receita por Tipo de Assinatura:** Receita total gerada por cada tipo de plano de assinatura.
   
-![Receita por Tipo de Assinatura](link-da-imagem)
-
 - **Análise de Receita por Dispositivo:** Comparação da receita gerada por dispositivos diferentes.
   
-![Receita por Dispositivo](link-da-imagem)
-
 - **Receita Total por País:** Total de receita gerada em cada país.
   
-![Receita por País](link-da-imagem)
-
 - **Retenção de Usuários (Tempo de Adesão e Pagamento):** Retenção de usuários com base no tempo de adesão e pagamento realizado.
   
-![Retenção de Usuários](link-da-imagem)
-
 ---
 
 ### 6. **Painel de Análise de Pagamentos**
@@ -148,12 +110,8 @@ A análise dos pagamentos permite ajustar a estratégia de cobrança e monitorar
 **Gráficos:**
 - **Distribuição de Pagamentos por Tipo de Assinatura ao Longo do Tempo:** Distribuição da receita ao longo do tempo segmentada por tipo de plano.
   
-![Distribuição de Pagamentos](link-da-imagem)
-
 - **Total de Pagamentos por Mês:** Quantidade total de pagamentos realizados por mês.
   
-![Total de Pagamentos](link-da-imagem)
-
 ---
 
 ### 7. **Painel de Análise Geográfica**
@@ -166,19 +124,13 @@ A segmentação geográfica permite que a plataforma entenda melhor o comportame
 **Gráficos:**
 - **Distribuição de Receita por Dispositivo:** Exibe como a receita varia com o tipo de dispositivo utilizado pelos usuários.
   
-![Distribuição de Receita por Dispositivo](link-da-imagem)
-
 - **Distribuição de Usuários por País:** Segmentação de usuários por país, destacando os principais mercados da plataforma.
   
-![Distribuição de Usuários por País](link-da-imagem)
-
 ---
 
 ### 8. **Painel de Análise de Novos Usuários**
 **Descrição:**  
-Este painel foca na análise dos novos usuários que aderiram à plataforma, segmentados por tipo de plano e dispositivo utilizado. Ele também avalia a retenção desses novos usuários e a
-
- sua distribuição geográfica.
+Este painel foca na análise dos novos usuários que aderiram à plataforma, segmentados por tipo de plano e dispositivo utilizado. Ele também avalia a retenção desses novos usuários e a sua distribuição geográfica.
 
 **Importância:**  
 A análise de novos usuários ajuda a entender como os novos clientes estão aderindo à plataforma, quais planos estão sendo mais escolhidos e qual é a retenção desses usuários.
@@ -186,18 +138,14 @@ A análise de novos usuários ajuda a entender como os novos clientes estão ade
 **Gráficos:**
 - **Novos Usuários por Tipo de Assinatura:** Quantidade de novos usuários que aderiram a cada tipo de plano.
   
-![Novos Usuários por Tipo de Assinatura](link-da-imagem)
-
 - **Novos Usuários por Dispositivo:** Segmentação de novos usuários por tipo de dispositivo.
   
-![Novos Usuários por Dispositivo](link-da-imagem)
-
 ---
 
 ## 📥 Como Usar
 1. Faça o clone deste repositório:
    ```bash
-   git clone https://github.com/bellaizaoliveira/repositorio.git
+   git clone https://github.com/bellaizaoliveira/netflix-user-insights.git
    ```
 2. Abra o arquivo `.pbix` no Power BI para explorar as visualizações interativas.
 
