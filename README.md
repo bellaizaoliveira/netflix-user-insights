@@ -1,5 +1,3 @@
----
-
 # Relatório de Análise de Usuários e Assinaturas
 
 ## 📝 Overview
