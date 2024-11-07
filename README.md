@@ -1,4 +1,4 @@
-# Relatório de Análise de Usuários e Assinaturas
+# Relatório de Análise de Usuários e Assinaturas - Netflix User Insights
 
 ## 📝 Overview
 Este projeto contém uma série de painéis interativos no Power BI, que analisam diversos aspectos dos usuários e dos planos de assinatura. Ele oferece insights valiosos sobre a base de usuários, retenção, engajamento, receita gerada e segmentação geográfica. Cada painel foi projetado para fornecer uma visão detalhada e interativa dos dados da plataforma.
