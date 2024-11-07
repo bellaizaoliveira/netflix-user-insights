@@ -1,5 +1,3 @@
-Claro! Aqui está a versão com o espaço para comentários adicionais:
-
 ---
 
 # Relatório de Análise de Usuários e Assinaturas
