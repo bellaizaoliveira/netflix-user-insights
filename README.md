@@ -15,7 +15,7 @@ Este painel oferece uma visão geral da base de usuários da plataforma, focando
 **Importância:**  
 A análise da base de usuários é fundamental para o planejamento de campanhas de marketing, expansão geográfica e segmentação de público. Identificar padrões de adesão e as características demográficas permite otimizar a estratégia de retenção e aquisição.
 
-![Painel 1](https://raw.githubusercontent.com/bellaizaoliveira/netflix-user-insights/main/assets/painel1.jpg)
+![Painel 1](https://raw.githubusercontent.com/bellaizaoliveira/netflix-user-insights/main/assets/painel1.png)
 
 **Gráficos:**
 - **Total de Usuários:** Quantidade total de usuários registrados na plataforma ao longo do tempo.
@@ -35,7 +35,7 @@ Este painel examina a retenção de usuários em relação à duração do plano
 **Importância:**  
 Compreender os fatores que afetam a retenção de usuários é essencial para melhorar a satisfação do cliente e reduzir o churn. A análise dos dispositivos e tipos de planos permite tomar decisões estratégicas sobre personalização de ofertas e melhorias de produto.
 
-![Painel 2](https://raw.githubusercontent.com/bellaizaoliveira/netflix-user-insights/main/assets/painel2.jpg)
+![Painel 2](https://raw.githubusercontent.com/bellaizaoliveira/netflix-user-insights/main/assets/painel2.png)
 
 **Gráficos:**
 - **Análise de Retenção por Duração do Plano:** Retenção de usuários conforme a duração do plano de adesão.
@@ -55,7 +55,7 @@ Esse painel é focado em identificar as tendências de adesões mensais e as rec
 **Importância:**  
 A compreensão das tendências de adesão e da receita gerada ao longo do tempo é crucial para planejar ações de marketing, campanhas promocionais e ajustes de preços. Além disso, a análise de sazonalidade ajuda a identificar eventos que impactam os resultados financeiros.
 
-![Painel 3](https://raw.githubusercontent.com/bellaizaoliveira/netflix-user-insights/main/assets/painel3.jpg)
+![Painel 3](https://raw.githubusercontent.com/bellaizaoliveira/netflix-user-insights/main/assets/painel3.png)
 
 **Gráficos:**
 - **Tendência de Adesão Mensal:** Quantidade de adesões mensais, destacando períodos de pico e baixa.
@@ -73,7 +73,7 @@ Este painel foca em analisar o comportamento de pagamento dos usuários e como e
 **Importância:**  
 Analisar o comportamento de pagamento é essencial para entender a disposição dos usuários em continuar com a plataforma e para identificar oportunidades de melhorar a monetização. O comportamento por faixa etária e dispositivo também ajuda a otimizar a experiência do usuário e as estratégias de marketing.
 
-![Painel 4](https://raw.githubusercontent.com/bellaizaoliveira/netflix-user-insights/main/assets/painel4.jpg)
+![Painel 4](https://raw.githubusercontent.com/bellaizaoliveira/netflix-user-insights/main/assets/painel4.png)
 
 **Gráficos:**
 - **Dispositivos Mais Utilizados:** Mostra os dispositivos mais usados pelos usuários da plataforma.
@@ -95,7 +95,7 @@ Este painel foca exclusivamente nas métricas financeiras, detalhando a receita 
 **Importância:**  
 Ter uma visão clara da receita gerada é essencial para monitorar a saúde financeira da plataforma. A análise de receita por país e dispositivo também é crucial para estratégias de expansão e personalização de ofertas para diferentes mercados.
 
-![Painel 5](https://raw.githubusercontent.com/bellaizaoliveira/netflix-user-insights/main/assets/painel5.jpg)
+![Painel 5](https://raw.githubusercontent.com/bellaizaoliveira/netflix-user-insights/main/assets/painel5.png)
 
 **Gráficos:**
 - **Receita por Tipo de Assinatura:** Receita total gerada por cada tipo de plano de assinatura.
@@ -115,7 +115,7 @@ Este painel explora o comportamento de pagamento dos usuários ao longo do tempo
 **Importância:**  
 A análise dos pagamentos permite ajustar a estratégia de cobrança e monitorar a consistência nos pagamentos dos usuários. Isso também ajuda a identificar períodos de baixo engajamento e a necessidade de ações específicas para melhorar a retenção.
 
-![Painel 6](https://raw.githubusercontent.com/bellaizaoliveira/netflix-user-insights/main/assets/painel6.jpg)
+![Painel 6](https://raw.githubusercontent.com/bellaizaoliveira/netflix-user-insights/main/assets/painel6.png)
 
 **Gráficos:**
 - **Distribuição de Pagamentos por Tipo de Assinatura ao Longo do Tempo:** Distribuição da receita ao longo do tempo segmentada por tipo de plano.
@@ -131,7 +131,7 @@ Este painel fornece uma análise detalhada da distribuição de usuários por pa
 **Importância:**  
 A segmentação geográfica permite que a plataforma entenda melhor o comportamento de usuários em diferentes regiões, ajudando na criação de campanhas de marketing direcionadas e na expansão para novos mercados.
 
-![Painel 7](https://raw.githubusercontent.com/bellaizaoliveira/netflix-user-insights/main/assets/painel7.jpg)
+![Painel 7](https://raw.githubusercontent.com/bellaizaoliveira/netflix-user-insights/main/assets/painel7.png)
 
 **Gráficos:**
 - **Distribuição de Receita por Dispositivo:** Exibe como a receita varia com o tipo de dispositivo utilizado pelos usuários.
@@ -147,7 +147,7 @@ Este painel foca na análise dos novos usuários que aderiram à plataforma, seg
 **Importância:**  
 A análise de novos usuários ajuda a entender como os novos clientes estão aderindo à plataforma, quais planos estão sendo mais escolhidos e qual é a retenção desses usuários.
 
-![Painel 8](https://raw.githubusercontent.com/bellaizaoliveira/netflix-user-insights/main/assets/painel8.jpg)
+![Painel 8](https://raw.githubusercontent.com/bellaizaoliveira/netflix-user-insights/main/assets/painel8.png)
 
 **Gráficos:**
 - **Novos Usuários por Tipo de Assinatura:** Quantidade de novos usuários que aderiram a cada tipo de plano.
